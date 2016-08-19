@@ -12,3 +12,7 @@ color:
     - '#E27A3F'
     - '#DF5A49'
 name: TJPhoto
+navigation:
+  - name: Repráky
+    id: 3bfdd6df-2c86-4e06-9b25-9f1d19675cc7
+    type: content
