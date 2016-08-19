@@ -1,0 +1,14 @@
+layout_spectrum: 0.029482502955943346
+typography_spectrum: 0.5246268829796463
+color:
+  brandStrength: 0.7701665200293064
+  lightness: 0.07250984758138657
+  saturation: 0.5629718182608485
+  rhythmicContrast: 0.14842936070635915
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: TJPhoto
