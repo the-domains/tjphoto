@@ -1,4 +1,3 @@
-layout_spectrum: 0.029482502955943346
 typography_spectrum: 0.5246268829796463
 color:
   brandStrength: 0.7701665200293064
@@ -11,8 +10,10 @@ color:
     - '#EFC94C'
     - '#E27A3F'
     - '#DF5A49'
+layout_spectrum: 0.029482502955943346
 name: TJP2
 navigation:
   - name: Repráky
     id: 3bfdd6df-2c86-4e06-9b25-9f1d19675cc7
     type: content
+description: Můj
